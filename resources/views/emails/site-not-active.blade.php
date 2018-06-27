@@ -1,0 +1,1 @@
+We could not verify that {{ config('app.name') }} links are showing on {{ $site->name }}. Please make sure the {{ config('app.name') }} links widget is installed and active on your site.

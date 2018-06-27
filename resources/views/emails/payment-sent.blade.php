@@ -1,0 +1,1 @@
+<p>A payment of ${{ $payment->amount }} has been sent to your PayPal account.</p>

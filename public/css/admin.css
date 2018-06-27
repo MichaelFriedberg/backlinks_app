@@ -1,0 +1,11 @@
+.messages {
+    padding: 15px 15px 0;
+}
+
+tr:hover .row-actions {
+    display: block;
+}
+.row-actions {
+    text-align: right;
+    display: none;
+}
